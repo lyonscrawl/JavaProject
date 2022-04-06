@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- All rights reserved to :
+     - Yanne Sidibe
+     - Victor Gravis
+     - Enzo Grégoire
+     - Maxence Poirot
+
+     IENAC20 - SITA
+     Toulouse, France, 2022
+     Last update : 03/04/2022 at 08pm10
+ -->
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/card3"
+    tools:context=".SettingsFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:orientation="vertical"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/settings_text"
+            android:textSize="30sp"
+            android:textColor="@color/black"
+            android:layout_marginBottom="20dp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Yanne"
+            android:textSize="30sp"
+            android:textColor="@color/purple_500"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Victor"
+            android:textSize="30sp"
+            android:textColor="@color/purple_500"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Enzo"
+            android:textSize="30sp"
+            android:textColor="@color/purple_500"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Maxence"
+            android:textSize="30sp"
+            android:textColor="@color/purple_500"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+
+</FrameLayout>

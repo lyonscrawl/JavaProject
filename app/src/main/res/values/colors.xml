@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- All rights reserved to :
+     - Yanne Sidibe
+     - Victor Gravis
+     - Enzo Grégoire
+     - Maxence Poirot
+
+     IENAC20 - SITA
+     Toulouse, France, 2022
+     Last update : 03/04/2022 at 08pm10
+ -->
+
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="light_white">#D2D2D2</color>
+    <color name="transparent">#FF6200EE</color>
+    <color name="card1">#A3E4D7</color>
+    <color name="card2">#F9E79F</color>
+    <color name="card3">#D7BDE2</color>
+    <color name="card4">#D2C3D8</color>
+    <color name="orange2">#FF7600</color>
+    <color name="orange1">#FF9600</color>
+    <color name="orange3">#FF6600</color>
+</resources>

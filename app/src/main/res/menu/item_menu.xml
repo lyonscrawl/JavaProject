@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- All rights reserved to :
+     - Yanne Sidibe
+     - Victor Gravis
+     - Enzo Grégoire
+     - Maxence Poirot
+
+     IENAC20 - SITA
+     Toulouse, France, 2022
+     Last update : 03/04/2022 at 08pm10
+ -->
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/nav_cat"
+        android:title="Categories"
+        android:icon="@drawable/ic_cat" />
+
+    <item android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home" />
+
+    <item android:id="@+id/nav_settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_settings" />
+
+</menu>

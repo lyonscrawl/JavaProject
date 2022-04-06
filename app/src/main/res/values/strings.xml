@@ -1,0 +1,19 @@
+<!-- All rights reserved to :
+     - Yanne Sidibe
+     - Victor Gravis
+     - Enzo Grégoire
+     - Maxence Poirot
+
+     IENAC20 - SITA
+     Toulouse, France, 2022
+     Last update : 03/04/2022 at 08pm10
+ -->
+
+<resources>
+    <string name="app_name">VibratorProject</string>
+    <string name="home_text">Accueil</string>
+    <string name="cat_text">Catégories enregistrées</string>
+    <string name="settings_text">A Propos</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
